@@ -20,3 +20,7 @@ dist/
 
 # Data
 data/*.db
+
+# Papers
+*.docx
+~$*.docx
